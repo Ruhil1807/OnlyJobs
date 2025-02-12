@@ -1,0 +1,5 @@
+OnlyJobs is a project developed by a team of Computer Science students at Rutgers University to help users efficiently track and organize their job applications. Searching for a job can be overwhelming, with multiple applications, follow-ups, and deadlines to manage. Our platform simplifies the process by providing a structured way to keep track of job opportunities, their status, and relevant details.
+
+OnlyJobs allows users to log job applications, update their progress, and categorize opportunities based on different statuses, such as applied, interviewing, or accepted. This helps users stay organized, avoid missing deadlines, and make informed decisions about their job search. The platform is designed with a clean and intuitive interface to ensure a smooth user experience.
+
+By leveraging modern web technologies, OnlyJobs offers a seamless solution for job seekers looking to manage their applications in one place. The project demonstrates our team's ability to build practical, user-centric applications that solve real-world problems.
