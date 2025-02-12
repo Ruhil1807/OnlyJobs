@@ -1,36 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+OnlyJobs is a project developed by a team of Computer Science students at Rutgers University to help users efficiently track and organize their job applications. Searching for a job can be overwhelming, with multiple applications, follow-ups, and deadlines to manage. Our platform simplifies the process by providing a structured way to keep track of job opportunities, their status, and relevant details.
 
-## Getting Started
+OnlyJobs allows users to log job applications, update their progress, and categorize opportunities based on different statuses, such as applied, interviewing, or accepted. This helps users stay organized, avoid missing deadlines, and make informed decisions about their job search. The platform is designed with a clean and intuitive interface to ensure a smooth user experience.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+By leveraging modern web technologies, OnlyJobs offers a seamless solution for job seekers looking to manage their applications in one place. The project demonstrates our team's ability to build practical, user-centric applications that solve real-world problems.
